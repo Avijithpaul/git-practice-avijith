@@ -1,3 +1,9 @@
-# Git Practice Project
-**Name:** Avijith Paul  
-**Description:** This project is a practical assignment to master Git and GitHub workflows, including branching, merging, and collaboration.
+# Git & GitHub Practical Assignment
+
+### Student Details
+- **Name:** Avijith Paul
+- **Course:** Machine Learning
+
+### Project Features
+- Git workflow practice
+- Basic calculator implementation with modules
